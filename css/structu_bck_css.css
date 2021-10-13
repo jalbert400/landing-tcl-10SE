@@ -1,0 +1,65 @@
+.img-fondo{
+  position: absolute;
+  z-index: -1;
+}
+
+.ttl-landing-tcl-10se-container{
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.ttl-landing-tcl-10se-contenido{
+  /*
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  */
+}
+
+.ttl-landing-tcl-10se-contenido-derecha{
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+.ttl-landing-tcl-10se-contenido-derecha .separacion-vertical{
+  padding-bottom: 40px;
+}
+
+.ttl-landing-tcl-10se-contenido-izquierda{
+  text-align: right;
+}
+
+.celular-potencia-dia{
+  position: absolute;
+  z-index: 9;
+  width: 630px;
+  top: 36%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto; 
+}
+
+.ttl-landing-potencia-dia-fondo{
+  margin-bottom: 100px;
+}
+    
+
+.ttl-landing-diseno-premium-contenido {
+    padding: 60px 0;
+}
+
+.ttl-landing-diseno-premium-izquierda {
+    text-align: right;
+}
+
+.ttl-landing-titulo{
+  font-size: 24px;
+  color: #000000;
+}
+
+.ttl-landing-descripcion{
+  font-size: 20px;
+  color: #58595b;
+}

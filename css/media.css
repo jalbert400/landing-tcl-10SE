@@ -1,0 +1,191 @@
+@media screen and (max-width: 1200px) {
+  
+  .ttl-landing-tcl-10se-container{
+    padding-top: 50px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda img{
+    width: 85%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical{
+    padding-bottom: 35px;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(1) img{
+    width: 75%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(2) img{
+    width: 50%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3) img{
+    width: 35%;
+  }
+  .ttl-landing-tcl-10se-pie img {
+    width: 37%;
+  }
+
+}
+
+@media screen and (max-width: 992px) {
+  
+  .ttl-landing-tcl-10se-container{
+    padding-top: 100px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda img{
+    width: 82%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical{
+    padding-bottom: 25px;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(1) img{
+    width: 60%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(2) img{
+    width: 60%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3){
+    padding-bottom: 35px;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3) img{
+    width: 43%;
+  }
+  .ttl-landing-tcl-10se-pie img {
+    width: 50%;
+  }
+  .ttl-landing-descripcion{
+    font-size: 18px;
+  }
+  .ttl-landing-diseno-premium-fondo {
+    padding-bottom: 50px;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .ttl-landing-tcl-10se-container{
+    padding-top: 180px;
+    padding-bottom: 40px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda{
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda img{
+    width: 50%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha{
+    justify-content: center;
+    text-align: center;
+  }
+
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical{
+    padding-bottom: 25px;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(1) img{
+    width: 50%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(2) img{
+    width: 50%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3){
+    padding-bottom: 0;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3) img{
+    width: 35%;
+  }
+  .ttl-landing-tcl-10se-pie img {
+    width: 68%;
+  }
+  .ttl-landing-diseno-premium-fondo {
+    padding-bottom: 40px;
+  }
+
+}
+
+@media screen and (max-width: 576px) {
+  
+  .ttl-landing-tcl-10se-container{
+    padding-top: 130px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .ttl-landing-tcl-10se-contenido-izquierda img{
+    width: 60%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha{
+    justify-content: center;
+    text-align: center;
+  }
+
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical{
+    padding-bottom: 15px;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(1) img{
+    width: 60%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(2) img{
+    width: 60%;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3){
+    padding-bottom: 0;
+  }
+  .ttl-landing-tcl-10se-contenido-derecha .separacion-vertical:nth-child(3) img{
+    width: 40%;
+  }
+  .ttl-landing-tcl-10se-pie img {
+    width: 70%;
+  }
+  .ttl-landing-diseno-premium-fondo {
+    padding-bottom: 40px;
+  }
+
+}
+
+@media screen and (max-width: 420px){
+
+  .ttl-landing-tcl-10se-container{
+    padding-top: 70px;
+  }
+
+  .ttl-landing-titulo {
+    font-size: 20px;
+  }
+
+  .ttl-landing-nxtvision img{
+    width: 70%;
+  }
+
+  .ttl-landing-titulo{
+    padding-bottom: 15px;
+  }
+
+  .ttl-landing-nxtvision-contenido, .ttl-landing-capturas-completas, .ttl-landing-rendimiento-inigualable, .ttl-landing-potencia-dia, .ttl-landing-diseno-premium{
+    padding-bottom: 20px;
+  }
+
+  .ttl-landing-tcl-10se-container, .ttl-landing-capturas-completas-fondo, .ttl-landing-nxtvision-fondo, .ttl-landing-potencia-dia-fondo{
+    padding-bottom: 30px;
+  }
+
+  .ttl-landing-descripcion{
+    font-size: 16px;
+  }
+
+  .ttl-landing-tcl-10se-pie img{
+    width: 70%;
+  }
+
+  .ttl-landing-potencia-dia-fondo div{
+    padding-bottom: 0;
+  }
+
+  .ttl-landing-diseno-premium-fondo {
+    padding-bottom: 40px;
+  }
+
+  .ttl-landing-tcl-10se-pie img {
+    width: 80%;
+  }
+
+}

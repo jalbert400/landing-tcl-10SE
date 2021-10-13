@@ -1,0 +1,71 @@
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  min-height: 100vh;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.font_avenir_black{
+    font-family: 'Avenir-Black';
+}
+
+.font_avenir_medium{
+    font-family: 'Avenir-Medium';
+}
+
+.container {
+  width: 1200px;
+  max-width: 100%;
+  outline: 1px solid red;
+}
+
+.padding-left-right-15{
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+.bloque-position-relative{
+  position: relative;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.outline-line-red{
+  /*outline: 1px solid red;*/
+}
+
+.center {
+  text-align: center;
+}
+
+.padding-bottom-40 {
+  padding-bottom: 40px;
+}
+
+.padding-bottom-30 {
+  padding-bottom: 30px;
+}
+
+.padding-bottom-20 {
+  padding-bottom: 20px;
+}
+
+.padding-bottom-10 {
+  padding-bottom: 20px;
+}
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+img{
+    max-width: 100%;
+}
