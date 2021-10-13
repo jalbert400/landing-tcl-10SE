@@ -22,7 +22,7 @@ html{
 .container {
   width: 1200px;
   max-width: 100%;
-  outline: 1px solid red;
+  /*outline: 1px solid red;*/
 }
 
 .padding-left-right-15{
